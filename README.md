@@ -62,3 +62,14 @@ I enjoy building things with code, participating in hackathons, creating content
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ramya15-G&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,vite,git,github,vscode" />
+</p>
+
+### Currently Learning
+Java • Data Structures & Algorithms • Problem Solving • AI Tools
