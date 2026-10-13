@@ -49,3 +49,16 @@ I enjoy building things with code, participating in hackathons, creating content
 ---
 
 *Building with code. Expressing through words. Growing through experiences.* ✨
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramya15-G&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya15-G&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramya15-G&theme=tokyonight&hide_border=true" />
+</p>
